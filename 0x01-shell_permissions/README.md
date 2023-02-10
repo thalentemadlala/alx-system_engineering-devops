@@ -1,1 +1,1 @@
-effective user of current directory
+prints all the groups of current user
