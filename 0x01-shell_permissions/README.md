@@ -1,1 +1,1 @@
-switch current user to betty
+effective user of current directory
