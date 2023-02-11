@@ -1,1 +1,1 @@
-permissions
+symbolic link permissions
