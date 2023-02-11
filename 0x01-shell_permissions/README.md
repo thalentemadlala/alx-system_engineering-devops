@@ -1,1 +1,1 @@
-directory with permissions 751
+change all files
