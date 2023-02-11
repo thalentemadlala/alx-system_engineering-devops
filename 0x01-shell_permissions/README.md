@@ -1,1 +1,1 @@
-subdirectories
+directory with permissions 751
