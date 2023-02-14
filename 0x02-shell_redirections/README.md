@@ -1,1 +1,1 @@
-find that word
+count that word
